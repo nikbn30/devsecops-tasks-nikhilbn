@@ -1,0 +1,9 @@
+Date is 05-08-2025
+Completed assignment 
+Creating task1.txt and task2.txt
+Staged and commit the files 
+Pushed the files
+Updated task1.txt 
+git add <task1.txt>
+git commit -m "Updated task1.txt with content"
+
