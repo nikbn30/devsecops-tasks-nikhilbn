@@ -11,7 +11,7 @@ git config --list
 
 ### 📁 Repository Setup
 
-git clone https://github.com/<nikhil.bn>/devsecops-tasks-<nikhil.bn>.git
+git clone https:git@github.com:nikbn30/devsecops-tasks-nikhilbn.git
 cd devsecops-tasks-<nikhil.bn>
 mkdir 2025-08-05
 cd 2025-08-05
@@ -33,7 +33,7 @@ git commit -m "Updated task1.txt with content"
 ### 🧾 Logs and Show
 
 git log
-git show <60e0e22>
+git show 7de505f
 
 ### 🚀 Push to GitHub
 git push origin main
